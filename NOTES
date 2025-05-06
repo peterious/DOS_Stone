@@ -1,0 +1,8 @@
+To get the program listing:
+
+Launch ColEm 5.6
+load SmartBASIC in Disk1
+Hardware reboot
+load Castle Deathstone disk in Disk1
+LOAD HELLO, d5
+LIST
